@@ -1,0 +1,14 @@
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\bin\Debug\netcoreapp3.1\conversor-velocidades.exe
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\bin\Debug\netcoreapp3.1\conversor-velocidades.deps.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\bin\Debug\netcoreapp3.1\conversor-velocidades.runtimeconfig.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\bin\Debug\netcoreapp3.1\conversor-velocidades.runtimeconfig.dev.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\bin\Debug\netcoreapp3.1\conversor-velocidades.dll
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\bin\Debug\netcoreapp3.1\conversor-velocidades.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.AssemblyInfoInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.AssemblyInfo.cs
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.dll
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\conversor-velocidades\conversor-velocidades\obj\Debug\netcoreapp3.1\conversor-velocidades.genruntimeconfig.cache
